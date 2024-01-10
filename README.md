@@ -1,4 +1,4 @@
 # project
 this is my first project
 <br>
-Author - Milan Pal
+Author - Milan Pal(AIT)
